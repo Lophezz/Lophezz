@@ -1,7 +1,10 @@
 ### Bem-vindo ao meu perfil! Eu sou um Futuro Dev 👋
 
 
-- 🎓 Cursando curso técnico Desenvolvimento de Sistemas - ETEC
+- 🎓 Cursando:
+- Fatec - Desenvolvimento de Sistemas Multiplataforma - 1/4 semestres
+- Cruzeiro do Sul EAD - Analise e Desenvolvimento de Sistemas - 2/4 semestres
+  
 - 🙂 Pronouns: ele/dele
 
 ##
