@@ -2,8 +2,8 @@
 
 
 - 🎓 Cursando:
-- Fatec - Desenvolvimento de Software Multiplataforma - 1/6 semestres
-- Cruzeiro do Sul EAD - Analise e Desenvolvimento de Sistemas - 2/4 semestres
+- Fatec - Desenvolvimento de Software Multiplataforma - 2/6 semestres
+- Cruzeiro do Sul EAD - Analise e Desenvolvimento de Sistemas - 3/4 semestres
   
 - 🙂 Pronouns: ele/dele
 
