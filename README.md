@@ -13,7 +13,7 @@
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-GIT" height="30" width="60" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <img align="center" alt="Matheus-Python" height="30" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+    <img align="center" alt="Matheus-Python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
 </div>
 
 ##
