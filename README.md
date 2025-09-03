@@ -6,8 +6,8 @@ Olá! Eu sou um **Futuro Desenvolvedor** apaixonado por tecnologia e aprendizado
 
 ## 🎓 Formação Acadêmica
 
-- 📚 **Fatec** - Desenvolvimento de Software Multiplataforma (3/6 semestres)
-- 📚 **Cruzeiro do Sul EAD** - Análise e Desenvolvimento de Sistemas (4/4 semestres)
+- 📚 **Fatec** - Desenvolvimento de Software Multiplataforma (4/6 semestres)
+- 📚 **Cruzeiro do Sul EAD** - Análise e Desenvolvimento de Sistemas (Concluido)
 
 ---
 
