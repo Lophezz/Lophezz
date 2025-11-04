@@ -27,7 +27,7 @@ Atualmente, estou cursando **Desenvolvimento de Software Multiplataforma** na Fa
 
 ### 🤖 Linguagens e Tecnologias
 
-<p align="left">
+<div>
   <strong>Frontend:</strong><br/>
   <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -37,21 +37,23 @@ Atualmente, estou cursando **Desenvolvimento de Software Multiplataforma** na Fa
   <img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" alt="axios" title="axios" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
-</p>
+</div>
 <br/><br/>
-<p align="left">
+
+<div>
   <strong>Backend:</strong><br/>
   <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="left" alt="SpringBoot" title="SpringBoot" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</p>
+</div>
 <br/><br/>
-<p align="left">
+
+<div>
   <strong>Banco de Dados & Ferramentas:</strong><br/>
   <img align="left" alt="mysql" title="mysql" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="left" alt="mongodb" title="mongodb" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</p>
+</div>
 <br/>
 <br/>
 
@@ -60,7 +62,7 @@ Atualmente, estou cursando **Desenvolvimento de Software Multiplataforma** na Fa
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lophezz&theme=tokyonight&hide_border=true&radius=4" alt="Gráfico de Contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lophezz&theme=onedark&hide_border=true&radius=4" alt="Gráfico de Contribuições" />
 </p>
 <p>
   <img 
