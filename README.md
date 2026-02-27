@@ -67,22 +67,6 @@ Atualmente, estou cursando **Desenvolvimento de Software Multiplataforma** na Fa
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lophezz&theme=dracula&hide_border=true&radius=4" alt="Gráfico de Contribuições" />
 </p>
-<p>
-  <img 
-    align="left" 
-    alt="Estatísticas do GitHub" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Lophezz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lophezz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> 
 
