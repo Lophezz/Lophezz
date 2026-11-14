@@ -115,10 +115,5 @@ Olá! Me chamo **Matheus Lopes**, sou um Desenvolvedor de Software de São Paulo
   <img width="65%" src="https://streak-stats.demolab.com?user=Lophezz&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lophezz&theme=dracula&hide_border=true&radius=4" alt="Gráfico de Contribuições" />
-</div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Banner" />
