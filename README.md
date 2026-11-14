@@ -23,9 +23,6 @@
     <a href="https://github.com/Lophezz?tab=followers">
       <img src="https://custom-icon-badges.demolab.com/github/followers/Lophezz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores" />
     </a>
-    <a href="https://github.com/Lophezz?tab=repositories">
-      <img src="https://custom-icon-badges.demolab.com/github/repos-size/Lophezz?color=6e5494&labelColor=4b366b&style=for-the-badge&logo=database&label=Repo%20Size&logoColor=white" alt="Tamanho dos Repositórios" />
-    </a>
   </p>
 </div>
 
